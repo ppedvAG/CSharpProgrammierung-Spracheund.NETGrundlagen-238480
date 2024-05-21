@@ -27,3 +27,10 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] mehrdimensionale Arrays 
 - [x] logische Operatoren
 - [x] if-Abfrage 
+
+## M04 | SCHLEIFEN und ENUMS
+- [x] while-Schleifen
+- [x] do-while-Schleife
+- [x] for-Schleife  
+- [x] foreach-Schleife  
+- [x] Enums 
