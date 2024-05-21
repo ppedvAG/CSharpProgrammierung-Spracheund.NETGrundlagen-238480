@@ -12,5 +12,12 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] C#
 - [x] .NET Versionen
 - [x] Projekte und Projektmappen
-- [ ] HelloWorld.cs
-- [ ] Startprojekt festlegen
+- [x] HelloWorld.cs
+- [x] Startprojekt festlegen
+
+## M02 | VARIABLEN, DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
+- [x] Sprachgrundlagen 
+- [x] Variablen & Datentypen 
+- [x] Aus- und Eingaben
+- [x] Parsing & Casting
+- [x] Operatoren  
