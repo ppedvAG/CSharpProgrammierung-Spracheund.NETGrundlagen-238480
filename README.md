@@ -21,3 +21,9 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] Aus- und Eingaben
 - [x] Parsing & Casting
 - [x] Operatoren  
+
+## M03 | ARRAYS und BEDINGUNGEN
+- [x] eindimensionale Arrays 
+- [x] mehrdimensionale Arrays 
+- [x] logische Operatoren
+- [x] if-Abfrage 
