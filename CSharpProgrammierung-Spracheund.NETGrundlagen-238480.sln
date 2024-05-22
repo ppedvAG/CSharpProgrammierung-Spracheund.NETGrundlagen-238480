@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M001_Greeting", "M001_Greeting\M001_Greeting.csproj", "{7567DCD5-9B6D-4FF7-B86A-FEE45AC462F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M001_Greeting", "M001_Greeting\M001_Greeting.csproj", "{7567DCD5-9B6D-4FF7-B86A-FEE45AC462F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M002_Variables", "M002_Variables\M002_Variables.csproj", "{CBF0EB5C-7FE6-48E8-839A-B1C735ED70A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M002_Variables", "M002_Variables\M002_Variables.csproj", "{CBF0EB5C-7FE6-48E8-839A-B1C735ED70A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_Arrays-If", "M003_Arrays-If\M003_Arrays-If.csproj", "{51985EA9-610F-4B0E-B2D6-D3230E02DEF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M003_Arrays-If", "M003_Arrays-If\M003_Arrays-If.csproj", "{51985EA9-610F-4B0E-B2D6-D3230E02DEF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M004_Loops-Enums", "M004_Loops-Enums\M004_Loops-Enums.csproj", "{7E26E8DB-DF46-4608-BA68-1BEE504F1854}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M004_Loops-Enums", "M004_Loops-Enums\M004_Loops-Enums.csproj", "{7E26E8DB-DF46-4608-BA68-1BEE504F1854}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labs", "Labs", "{41FAF8D8-3241-44D3-9549-75E4DCB61DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musterloesungen", "Musterloesungen\Musterloesungen.csproj", "{6BE30101-C0E4-4B72-8C0C-5D675C255CC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,9 +37,16 @@ Global
 		{7E26E8DB-DF46-4608-BA68-1BEE504F1854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E26E8DB-DF46-4608-BA68-1BEE504F1854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E26E8DB-DF46-4608-BA68-1BEE504F1854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE30101-C0E4-4B72-8C0C-5D675C255CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE30101-C0E4-4B72-8C0C-5D675C255CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE30101-C0E4-4B72-8C0C-5D675C255CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE30101-C0E4-4B72-8C0C-5D675C255CC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BE30101-C0E4-4B72-8C0C-5D675C255CC1} = {41FAF8D8-3241-44D3-9549-75E4DCB61DF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB774A3A-6CAF-4EEA-A716-C069EC4B13A3}
