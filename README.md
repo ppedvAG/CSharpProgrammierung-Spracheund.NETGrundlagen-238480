@@ -43,3 +43,12 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] params   
 - [x] out  
 - [x] Überladung 
+
+## M06 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
+- [x] Namespaces 
+- [x] Klassen  
+- [x] Felder
+- [x] Eigenschaften  
+- [x] Kapselungen 
+- [x] Konstruktoren 
+- [x] Objekte 
