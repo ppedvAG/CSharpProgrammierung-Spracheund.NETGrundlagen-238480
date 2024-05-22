@@ -34,3 +34,12 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] for-Schleife  
 - [x] foreach-Schleife  
 - [x] Enums 
+
+## M05 | Funktionen
+- [x] Funktionen  
+- [x] Modifier  
+- [x] Parameter 
+- [x] optionale Parameter 
+- [x] params   
+- [x] out  
+- [x] Überladung 
