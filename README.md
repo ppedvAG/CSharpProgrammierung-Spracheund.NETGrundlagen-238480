@@ -59,3 +59,10 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] Statische Member
 - [x] Werte- und Referenztypen
 - [x] ref 
+
+## M08 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
+- [x] Vererbung
+- [x] base
+- [x] virtuelle Member   
+- [x] Überschreibungen verhindern
+- [x] Zugriffsmodifier 
