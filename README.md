@@ -52,3 +52,10 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] Kapselungen 
 - [x] Konstruktoren 
 - [x] Objekte 
+
+## M07 | OOP - GARBAGE COLLECTION, STATISCHE MEMBER, WERTE und REFERENZEN
+- [x] Destruktor 
+- [x] Garbage Collection
+- [x] Statische Member
+- [x] Werte- und Referenztypen
+- [x] ref 
