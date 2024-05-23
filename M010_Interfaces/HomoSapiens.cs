@@ -1,10 +1,15 @@
 ﻿namespace M009_Types_Poly
 {
-    public class HomoSapiens : Creature, IWorkable
+    public class HomoSapiens : AbstractCreature, IWorkable
     {
         public int Salery { get; set; }
 
-        public string Job { get; set; }
+        public string Job { get; set; } = string.Empty;
+
+        public HomoSapiens(string name)
+        {
+            Name = name;
+        }
 
         public override void Eat()
         {

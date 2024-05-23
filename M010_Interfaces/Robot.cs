@@ -26,7 +26,7 @@ namespace M010_Interfaces
 
             public void Payout()
             {
-                Console.WriteLine($"Der Robter als {Job} hat Wartungskosten von {Salery} arbeiten.");
+                Console.WriteLine($"Der Robter als {Job} hat Wartungskosten von {Salery} Credits.");
             }
         }
     }
