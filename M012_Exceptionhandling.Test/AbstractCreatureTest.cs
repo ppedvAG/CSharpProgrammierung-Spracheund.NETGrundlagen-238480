@@ -2,6 +2,8 @@
 
 namespace M012_Exceptionhandling.Test
 {
+    // In Dependencies wurde M009_Types+Poly referenziert
+
     [TestClass]
     public class AbstractCreatureTest
     {
