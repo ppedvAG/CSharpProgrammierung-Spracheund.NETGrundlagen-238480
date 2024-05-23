@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_Exceptionhandling", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M011_Generics", "M011_Generics\M011_Generics.csproj", "{9174B10A-ED18-4464-992E-43848B2E0DCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_LabCode", "M012_LabCode\M012_LabCode.csproj", "{D3D2BCDA-7833-413F-9B07-1EFCDA8E1CDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,12 +97,17 @@ Global
 		{9174B10A-ED18-4464-992E-43848B2E0DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9174B10A-ED18-4464-992E-43848B2E0DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9174B10A-ED18-4464-992E-43848B2E0DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D2BCDA-7833-413F-9B07-1EFCDA8E1CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D2BCDA-7833-413F-9B07-1EFCDA8E1CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D2BCDA-7833-413F-9B07-1EFCDA8E1CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D2BCDA-7833-413F-9B07-1EFCDA8E1CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6BE30101-C0E4-4B72-8C0C-5D675C255CC1} = {41FAF8D8-3241-44D3-9549-75E4DCB61DF1}
+		{D3D2BCDA-7833-413F-9B07-1EFCDA8E1CDA} = {41FAF8D8-3241-44D3-9549-75E4DCB61DF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB774A3A-6CAF-4EEA-A716-C069EC4B13A3}
