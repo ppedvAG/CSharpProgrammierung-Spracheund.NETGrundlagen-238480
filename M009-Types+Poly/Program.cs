@@ -6,10 +6,14 @@
         {
             Creature hugo = CreateCreature(true, "Hugo");
             hugo.Eat();
+
+            // Mit GetType() fragen wir den Typ zur Laufzeit ab: HomoSapiens
             Console.WriteLine("Was bin ich: " + hugo.GetType().Name);
 
             Creature garfield = CreateCreature(false, "Garfield");
             garfield.Eat();
+
+            // Mit GetType() fragen wir den Typ zur Laufzeit ab: Cat
             Console.WriteLine("Was bin ich: " + garfield.GetType().Name);
 
 
