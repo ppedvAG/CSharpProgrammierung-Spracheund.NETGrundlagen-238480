@@ -73,3 +73,10 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] Typtest "is" 
 - [ ] Member ausblenden (nicht so wichtig und nicht empfohlen)
 - [x] abstrakte Member und Klassen 
+
+## M12 | FEHLERBEHANDLUNG und UNIT-TESTS
+- [x] try-catch  
+- [x] eigene Exceptions 
+- [x] UnitTests mit AAA-Pattern
+- [x] Assert References
+- [x] UnitTests DataRow

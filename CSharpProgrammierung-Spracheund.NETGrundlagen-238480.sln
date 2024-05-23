@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M009_Types+Poly", "M009-Typ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M010_Interfaces", "M010_Interfaces\M010_Interfaces.csproj", "{6271D2D5-8983-4EA1-99B0-298562D1E1C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_Exceptionhandling.Test", "M012_Exceptionhandling.Test\M012_Exceptionhandling.Test.csproj", "{5F1836F4-E885-4998-AC88-32E524DE9210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_Exceptionhandling", "M012_Exceptionhandling\M012_Exceptionhandling.csproj", "{75993CA3-C543-48F3-A356-588A88BCEB6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +81,14 @@ Global
 		{6271D2D5-8983-4EA1-99B0-298562D1E1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6271D2D5-8983-4EA1-99B0-298562D1E1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6271D2D5-8983-4EA1-99B0-298562D1E1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1836F4-E885-4998-AC88-32E524DE9210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1836F4-E885-4998-AC88-32E524DE9210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1836F4-E885-4998-AC88-32E524DE9210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1836F4-E885-4998-AC88-32E524DE9210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75993CA3-C543-48F3-A356-588A88BCEB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75993CA3-C543-48F3-A356-588A88BCEB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75993CA3-C543-48F3-A356-588A88BCEB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75993CA3-C543-48F3-A356-588A88BCEB6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
