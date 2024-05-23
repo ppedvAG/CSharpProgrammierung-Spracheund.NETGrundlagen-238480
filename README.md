@@ -66,3 +66,10 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] virtuelle Member   
 - [x] Überschreibungen verhindern
 - [x] Zugriffsmodifier 
+
+## M09 | OOP - POLYMORPHISMUS und TYPEN
+- [x] Polymorphismus
+- [x] Typtest "GetType()" & "typeof"  
+- [x] Typtest "is" 
+- [ ] Member ausblenden (nicht so wichtig und nicht empfohlen)
+- [x] abstrakte Member und Klassen 
