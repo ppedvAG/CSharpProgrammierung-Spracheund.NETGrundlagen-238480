@@ -100,3 +100,9 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] Dateien lesen/schreiben 
 - [x] JSON
 - [ ] XML
+
+## M15 | SONSTIGES
+- [x] Extension Methods
+- [x] Linq und IEnumberable<T>
+- [x] DebuggerDisplay
+- [x] Rekursion vs. Iteration
