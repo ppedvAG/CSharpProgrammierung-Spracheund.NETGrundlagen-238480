@@ -16,7 +16,7 @@ namespace M011_Generics
 
             for (int i = 0; i < 10; i++)
             {
-                personDict.Add($"Anonymous_{i}", Factory.CreateRandomPerson());
+                personDict.Add($"Anonymous_{i}", PersonFactory.CreateRandomPerson());
             }
 
             Console.WriteLine($"Unser Dictionary vom Typ Personen hat {personDict.Count} Eintraege.");

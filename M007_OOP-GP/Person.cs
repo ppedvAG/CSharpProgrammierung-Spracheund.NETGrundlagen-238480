@@ -28,6 +28,8 @@
 
         #region Properties
 
+        public string Vorname { get => _vorname; set => _vorname = value; }
+
         private string _nachname = "";
 
         public string Nachname
@@ -89,12 +91,13 @@
         public Person()
         {
             TotalPersonCount++;
-            Console.WriteLine(TotalPersonCount + ". Person wurde erstellt.");
         }
 
         public Person(string vorname, string nachname, int age)
             : this() // Default Konstruktor ohne Parameter aufrufen
         {
+            Console.WriteLine(TotalPersonCount + ". Person wurde erstellt.");
+
             _vorname = vorname;
             _nachname = nachname;
             Alter = age;

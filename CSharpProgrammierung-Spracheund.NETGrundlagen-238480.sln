@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M012_LabCode", "M012_LabCod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M013_Delegates-Events", "M013_Delegates-Events\M013_Delegates-Events.csproj", "{C449F642-EB20-4C83-B78A-493765495F12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M015_Files", "M015_Files\M015_Files.csproj", "{5C41333E-594A-4B7C-AFB7-B0EF81D836F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{C449F642-EB20-4C83-B78A-493765495F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C449F642-EB20-4C83-B78A-493765495F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C449F642-EB20-4C83-B78A-493765495F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C41333E-594A-4B7C-AFB7-B0EF81D836F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C41333E-594A-4B7C-AFB7-B0EF81D836F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C41333E-594A-4B7C-AFB7-B0EF81D836F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C41333E-594A-4B7C-AFB7-B0EF81D836F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -95,3 +95,8 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] Func
 - [x] anonyme Methoden
 - [x] EventHandler
+
+## M15 | DATEIEN und VERZEICHNISSE
+- [x] Dateien lesen/schreiben 
+- [x] JSON
+- [ ] XML

@@ -1,6 +1,7 @@
 ﻿namespace M007_OOP_GP
 {
-    public static class Factory
+    // Factory ist eines vieler Entwurfsmuster (soz. "Rezepte"), siehe https://de.wikipedia.org/wiki/Fabrikmethode
+    public static class PersonFactory
     {
         public readonly static string[] NamePool = new string[]
         {
