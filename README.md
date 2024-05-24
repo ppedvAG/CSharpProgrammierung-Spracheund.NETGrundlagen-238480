@@ -88,3 +88,10 @@ Kurs Repository zu Kurs C# Programmierung - Sprache und .NET Grundlagen der pped
 - [x] UnitTests mit AAA-Pattern
 - [x] Assert References
 - [x] UnitTests DataRow
+
+## M13 | DELEGATES und EVENTS
+- [x] Delegates 
+- [x] Action  
+- [x] Func
+- [x] anonyme Methoden
+- [x] EventHandler
